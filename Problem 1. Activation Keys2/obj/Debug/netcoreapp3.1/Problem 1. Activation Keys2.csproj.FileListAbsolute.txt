@@ -1,0 +1,13 @@
+G:\visual studio\Problem 1. Activation Keys2\bin\Debug\netcoreapp3.1\Problem 1. Activation Keys2.exe
+G:\visual studio\Problem 1. Activation Keys2\bin\Debug\netcoreapp3.1\Problem 1. Activation Keys2.deps.json
+G:\visual studio\Problem 1. Activation Keys2\bin\Debug\netcoreapp3.1\Problem 1. Activation Keys2.runtimeconfig.json
+G:\visual studio\Problem 1. Activation Keys2\bin\Debug\netcoreapp3.1\Problem 1. Activation Keys2.runtimeconfig.dev.json
+G:\visual studio\Problem 1. Activation Keys2\bin\Debug\netcoreapp3.1\Problem 1. Activation Keys2.dll
+G:\visual studio\Problem 1. Activation Keys2\bin\Debug\netcoreapp3.1\Problem 1. Activation Keys2.pdb
+G:\visual studio\Problem 1. Activation Keys2\obj\Debug\netcoreapp3.1\Problem 1. Activation Keys2.csprojAssemblyReference.cache
+G:\visual studio\Problem 1. Activation Keys2\obj\Debug\netcoreapp3.1\Problem 1. Activation Keys2.AssemblyInfoInputs.cache
+G:\visual studio\Problem 1. Activation Keys2\obj\Debug\netcoreapp3.1\Problem 1. Activation Keys2.AssemblyInfo.cs
+G:\visual studio\Problem 1. Activation Keys2\obj\Debug\netcoreapp3.1\Problem 1. Activation Keys2.csproj.CoreCompileInputs.cache
+G:\visual studio\Problem 1. Activation Keys2\obj\Debug\netcoreapp3.1\Problem 1. Activation Keys2.dll
+G:\visual studio\Problem 1. Activation Keys2\obj\Debug\netcoreapp3.1\Problem 1. Activation Keys2.pdb
+G:\visual studio\Problem 1. Activation Keys2\obj\Debug\netcoreapp3.1\Problem 1. Activation Keys2.genruntimeconfig.cache
