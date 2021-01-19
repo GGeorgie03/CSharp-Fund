@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\jojki\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\jojki\\.nuget\\packages"
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+G:\visual studio\01.  SoftUni Reception\bin\Debug\netcoreapp3.1\01.  SoftUni Reception.exe
+G:\visual studio\01.  SoftUni Reception\bin\Debug\netcoreapp3.1\01.  SoftUni Reception.deps.json
+G:\visual studio\01.  SoftUni Reception\bin\Debug\netcoreapp3.1\01.  SoftUni Reception.runtimeconfig.json
+G:\visual studio\01.  SoftUni Reception\bin\Debug\netcoreapp3.1\01.  SoftUni Reception.runtimeconfig.dev.json
+G:\visual studio\01.  SoftUni Reception\bin\Debug\netcoreapp3.1\01.  SoftUni Reception.dll
+G:\visual studio\01.  SoftUni Reception\bin\Debug\netcoreapp3.1\01.  SoftUni Reception.pdb
+G:\visual studio\01.  SoftUni Reception\obj\Debug\netcoreapp3.1\01.  SoftUni Reception.AssemblyInfoInputs.cache
+G:\visual studio\01.  SoftUni Reception\obj\Debug\netcoreapp3.1\01.  SoftUni Reception.AssemblyInfo.cs
+G:\visual studio\01.  SoftUni Reception\obj\Debug\netcoreapp3.1\01.  SoftUni Reception.csproj.CoreCompileInputs.cache
+G:\visual studio\01.  SoftUni Reception\obj\Debug\netcoreapp3.1\01.  SoftUni Reception.dll
+G:\visual studio\01.  SoftUni Reception\obj\Debug\netcoreapp3.1\01.  SoftUni Reception.pdb
+G:\visual studio\01.  SoftUni Reception\obj\Debug\netcoreapp3.1\01.  SoftUni Reception.genruntimeconfig.cache
+G:\visual studio\01.  SoftUni Reception\obj\Debug\netcoreapp3.1\01.  SoftUni Reception.csprojAssemblyReference.cache
